@@ -24,15 +24,17 @@ By understanding these patterns, we gain insight into how SpaceX achieved dramat
 ---
 
 ## 🧭 Project Workflow
-Step	Module	Description
-1	Lab 1 – Data Collection API	Retrieve launch records from the SpaceX REST API using Python requests.
-2	Lab 2 – Data Collection with Web Scraping	Supplement dataset with additional launch details scraped from Wikipedia.
-3	Lab 3 – Data Wrangling	Clean, merge, and preprocess raw data for analysis. Handle missing values and derive new features.
-4	Lab 4 – EDA with SQL	Query the dataset with SQL to summarize launch outcomes and payload patterns.
-5	Lab 5 – EDA with Visualization	Visualize relationships among payload mass, orbit type, and success rate using Matplotlib and Seaborn.
-6	Lab 6 – Interactive Visual Analytics with Folium	Map global launch sites and success frequencies with interactive Folium maps.
-7	Lab 7 – Build an Interactive Dashboard with Plotly Dash	Create a dashboard for dynamic filtering and visualization of SpaceX launch performance.
-8	Lab 8 – Machine Learning Prediction	Build and compare classification models (Logistic Regression, SVM, Decision Tree, KNN) to predict landing success.
+
+| Step | Module | Description |
+| :--- | :--- | :--- |
+| 1 | Lab 1 – Data Collection API | Retrieve launch records from the SpaceX REST API using Python requests. |
+| 2 | Lab 2 – Data Collection with Web Scraping | Supplement dataset with additional launch details scraped from Wikipedia. |
+| 3 | Lab 3 – Data Wrangling | Clean, merge, and preprocess raw data for analysis. Handle missing values and derive new features. |
+| 4 | Lab 4 – EDA with SQL | Query the dataset with SQL to summarize launch outcomes and payload patterns. |
+| 5 | Lab 5 – EDA with Visualization | Visualize relationships among payload mass, orbit type, and success rate using Matplotlib and Seaborn. |
+| 6 | Lab 6 – Interactive Visual Analytics with Folium | Map global launch sites and success frequencies with interactive Folium maps. |
+| 7 | Lab 7 – Build an Interactive Dashboard with Plotly Dash | Create a dashboard for dynamic filtering and visualization of SpaceX launch performance. |
+| 8 | Lab 8 – Machine Learning Prediction | Build and compare classification models (Logistic Regression, SVM, Decision Tree, KNN) to predict landing success. |
 
 ---
 ## 📊 Key Results
