@@ -1,16 +1,77 @@
-# Predicting SpaceX Falcon 9 First Stage Landing Success
+# Landing the Future: A Data Science Analysis of SpaceX Falcon 9
 
+## 📘 Overview
 
-## This repository contains the complete IBM Applied Data Science Capstone project. It explores SpaceX Falcon 9 launch data to identify factors influencing first stage landing outcomes and build a machine learning model capable of predicting landing success.
+This project is the final capstone for the IBM Applied Data Science Specialization.
+It explores SpaceX Falcon 9 launch data to discover key factors that influence the success of first-stage landings and builds a machine-learning model capable of predicting landing outcomes.
 
-### The project includes:
+By understanding these patterns, we gain insight into how SpaceX achieved dramatic cost reductions through reusable rocket technology.
 
-- Data collection from the SpaceX REST API and Wikipedia
+---
 
-- Data wrangling and cleaning
+## 🚀 Project Objectives
 
-- Exploratory Data Analysis (EDA) with visualization and SQL
+- Collect and prepare real-world SpaceX data using API calls and web scraping
 
-- Interactive analytics using Folium and Plotly Dash
+- Perform data wrangling to clean and structure the dataset for analysis
 
-- Predictive modeling using Logistic Regression, SVM, Decision Tree, and KNN classifiers
+- Conduct Exploratory Data Analysis (EDA) with both SQL and visualization tools
+
+- Develop interactive analytics using Folium (geospatial) and Plotly Dash (dashboard)
+
+- Build and evaluate machine-learning classification models to predict landing success
+
+---
+
+## 🧭 Project Workflow
+Step	Module	Description
+1	Lab 1 – Data Collection API	Retrieve launch records from the SpaceX REST API using Python requests.
+2	Lab 2 – Data Collection with Web Scraping	Supplement dataset with additional launch details scraped from Wikipedia.
+3	Lab 3 – Data Wrangling	Clean, merge, and preprocess raw data for analysis. Handle missing values and derive new features.
+4	Lab 4 – EDA with SQL	Query the dataset with SQL to summarize launch outcomes and payload patterns.
+5	Lab 5 – EDA with Visualization	Visualize relationships among payload mass, orbit type, and success rate using Matplotlib and Seaborn.
+6	Lab 6 – Interactive Visual Analytics with Folium	Map global launch sites and success frequencies with interactive Folium maps.
+7	Lab 7 – Build an Interactive Dashboard with Plotly Dash	Create a dashboard for dynamic filtering and visualization of SpaceX launch performance.
+8	Lab 8 – Machine Learning Prediction	Build and compare classification models (Logistic Regression, SVM, Decision Tree, KNN) to predict landing success.
+
+---
+## 📊 Key Results
+
+- Payload and orbit type strongly influence landing success probability.
+
+- Geospatial mapping revealed higher success rates at Cape Canaveral LC-40 and KSC LC-39A.
+
+- Interactive dashboard enables real-time filtering of launch outcomes by payload range and site.
+
+- Best-performing model: Decision Tree Classifier (tuned with GridSearchCV) achieving the highest accuracy among tested models.
+
+  ---
+
+## 🔗 Notebooks and External References
+
+Each folder contains a Jupyter notebook showing the complete workflow, including code, outputs, and visualizations.
+
+---
+## ⚙️ Technologies Used
+
+- Languages: Python, SQL
+
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Folium, Plotly Dash, BeautifulSoup, Requests
+
+- Tools: Jupyter Notebooks, GitHub
+
+  ---
+
+## 🧠 Insights & Conclusion
+
+Through the complete data-science pipeline, we demonstrated how data-driven insights can model real aerospace engineering outcomes.
+The results show that SpaceX’s iterative launch improvements correlate strongly with payload mass and orbit complexity, confirming the company’s engineering focus on reusability and efficiency.
+
+---
+
+## 👩‍💻 Author
+
+Javier Thomas Garside Aguilar
+IBM Applied Data Science Capstone Project
+GitHub Repository
+
