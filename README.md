@@ -86,7 +86,7 @@ The results show that SpaceX’s iterative launch improvements correlate strongl
 
 ## 👩‍💻 Author
 
-Javier Thomas Garside Aguilar
-IBM Applied Data Science Capstone Project
-GitHub Repository
+- Javier Thomas Garside Aguilar
+- IBM Applied Data Science Capstone Project
+- GitHub Repository
 
