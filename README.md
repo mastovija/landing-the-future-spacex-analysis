@@ -57,14 +57,14 @@ Through the complete data-science pipeline, we demonstrated how **data-driven in
 
 ### Project Modules 🧪
 
-* [**Lab 1 – Data Collection API**](./Lab_1_Data_Collection_API) | *Retrieve launch records from the SpaceX REST API using Python requests.*
-* [**Lab 2 – Data Collection with Web Scraping**](./Lab_2_Data_Collection_with_Web_Scraping) | *Supplement dataset with additional launch details scraped from Wikipedia.*
-* [**Lab 3 – Data Wrangling**](./Lab_3_Data_Wrangling) | *Clean, merge, and preprocess raw data for analysis. Handle missing values and derive new features.*
-* [**Lab 4 – EDA with SQL**](./Lab_4_EDA_with_SQL) | *Query the dataset with SQL to summarize launch outcomes and payload patterns.*
-* [**Lab 5 – EDA with Visualization**](./Lab_5_EDA_with_Visualization) | *Visualize relationships among payload mass, orbit type, and success rate using Matplotlib and Seaborn.*
-* [**Lab 6 – Interactive Visual Analytics with Folium**](./Lab_6_Interactive_Visual_Analytics_with_Folium) | *Map global launch sites and success frequencies with interactive Folium maps.*
-* [**Lab 7 – Build an Interactive Dashboard with Plotly Dash**](./Lab_7_Build_an_Interactive_Dashboard_with_Plotly_Dash) | *Create a dashboard for dynamic filtering and visualization of SpaceX launch performance.*
-* [**Lab 8 – Machine Learning Prediction**](./Lab_8_Machine_Learning_Prediction) | *Build and compare classification models (Logistic Regression, SVM, Decision Tree, KNN) to predict landing success.*
+* [**Lab 1 – Data Collection API**](https://github.com/mastovija/landing-the-future-spacex-analysis/blob/main/Lab%201%20-%20Data%20Collection%20API/jupyter-labs-spacex-data-collection-api.ipynb) | *Retrieve launch records from the SpaceX REST API using Python requests.*
+* [**Lab 2 – Data Collection with Web Scraping**](https://github.com/mastovija/landing-the-future-spacex-analysis/blob/main/Lab%202%20-%20Data%20Collection%20with%20Web%20Scraping/jupyter-labs-webscraping.ipynb) | *Supplement dataset with additional launch details scraped from Wikipedia.*
+* [**Lab 3 – Data Wrangling**]([https://github.com/mastovija/landing-the-future-spacex-analysis/tree/main/Lab%203%20-%20Data%20Wrangling](https://github.com/mastovija/landing-the-future-spacex-analysis/blob/main/Lab%203%20-%20Data%20Wrangling/labs-jupyter-spacex-Data%20wrangling.ipynb)) | *Clean, merge, and preprocess raw data for analysis. Handle missing values and derive new features.*
+* [**Lab 4 – EDA with SQL**]([https://github.com/mastovija/landing-the-future-spacex-analysis/tree/main/Lab%204%20-%20EDA%20with%20SQL](https://github.com/mastovija/landing-the-future-spacex-analysis/blob/main/Lab%204%20-%20EDA%20with%20SQL/jupyter-labs-eda-sql-coursera_sqllite.ipynb)) | *Query the dataset with SQL to summarize launch outcomes and payload patterns.*
+* [**Lab 5 – EDA with Visualization**]([https://github.com/mastovija/landing-the-future-spacex-analysis/tree/main/Lab%205%20-%20EDA%20with%20Visualization](https://github.com/mastovija/landing-the-future-spacex-analysis/blob/main/Lab%205%20-%20EDA%20with%20Visualization/edadataviz.ipynb)) | *Visualize relationships among payload mass, orbit type, and success rate using Matplotlib and Seaborn.*
+* [**Lab 6 – Interactive Visual Analytics with Folium**](https://github.com/mastovija/landing-the-future-spacex-analysis/blob/main/Lab%206%20-%20Interactive%20Visual%20Analytics%20with%20Folium/lab_jupyter_launch_site_location.ipynb) | *Map global launch sites and success frequencies with interactive Folium maps.*
+* [**Lab 7 – Build an Interactive Dashboard with Plotly Dash**](https://github.com/mastovija/landing-the-future-spacex-analysis/tree/main/Lab%207%20-%20Build%20an%20Interactive%20Dashboard%20with%20Plotly%20Dash) | *Create a dashboard for dynamic filtering and visualization of SpaceX launch performance.*
+* [**Lab 8 – Machine Learning Prediction**]([./Lab_8_Machine_Learning_Prediction](https://github.com/mastovija/landing-the-future-spacex-analysis/blob/main/Lab%208%20-%20Machine%20Learning%20Prediction/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb)) | *Build and compare classification models (Logistic Regression, SVM, Decision Tree, KNN) to predict landing success.*
 
 ---
 ## ⚙️ Technologies Used
